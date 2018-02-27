@@ -1,7 +1,9 @@
 <template>
     <div id="app"> 
-           {{val}}          
-     <router-view></router-view>  
+           {{val}}
+            <router-view></router-view>  
+    <el-button type="danger">危险按钮</el-button>          
+    
     </div>
 </template>
 
