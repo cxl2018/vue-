@@ -3,7 +3,7 @@
 node_modules
 dist
 .*
-
+hhh
 
 #不忽略的文件
 !.gitignore
