@@ -1,16 +1,12 @@
 <template>
     <div>
-        {{reg}}
+        商品评论
     </div>
 </template>
 
 <script>
     export default {
-        data() {
-            return {
-                reg: '注册'
-            }
-        },
+        
     }
 </script>
 

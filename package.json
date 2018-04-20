@@ -2,7 +2,7 @@
   "name": "houtaiguanli16",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "dev": "webpack-dev-server --open",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,7 +30,9 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.2.0",
+    "normalize.css": "^8.0.0",
     "vue": "^2.5.13",
+    "vue-quill-editor": "^3.0.5",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   }
